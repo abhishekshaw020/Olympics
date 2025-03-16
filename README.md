@@ -55,4 +55,4 @@ This project is a **gold medal-worthy** 🥇 blend of data science and sports an
 
 ### 📬 Connect with Me
 📩 **Email:** abhishaw020@gmail.com   
-🔗 **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/abhishaw020) 
+🔗 **LinkedIn:** [abhishaw020](https://linkedin.com/in/abhishaw020) 
