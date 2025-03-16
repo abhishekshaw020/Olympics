@@ -1,7 +1,5 @@
 # 🏅 Olympic Medal Analysis & Prediction
 
-![Olympics Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Olympic_rings.svg/1920px-Olympic_rings.svg.png)
-
 ## 🎯 About the Project
 
 **"Who dominates the Olympics? Which country will shine in the next decade?"** 🏆 This project dives deep into Olympic data to analyze medal trends, visualize rankings, and predict future medal counts for various nations.
@@ -33,13 +31,16 @@ Using Python, Pandas, Seaborn, and Machine Learning, this project uncovers the m
 ## 📊 Visualizing Olympic Dominance
 
 ### 🏆 **Top 10 Countries by Total Medals**
-A vibrant and engaging bar chart showcasing the nations that have conquered the Olympics over time.
+![image](https://github.com/user-attachments/assets/db170fee-0444-4d57-9f06-d5f09a75a4fc)
+
 
 ### 📈 **Total Medals Over the Years**
-A dynamic line chart revealing how global participation and medal counts have evolved over time.
+![image](https://github.com/user-attachments/assets/a4b120fc-cb69-464f-a375-b4258806d865)
+
 
 ### 🔮 **Medal Predictions for Future Olympics**
 Using machine learning, we predict the potential medal counts for upcoming Olympic events. Just select a country, and our AI model does the rest!
+![image](https://github.com/user-attachments/assets/b8985988-dce9-443d-a2cd-783128d4a184)
 
 ---
 
@@ -53,8 +54,5 @@ This project is a **gold medal-worthy** 🥇 blend of data science and sports an
 ---
 
 ### 📬 Connect with Me
-📩 **Email:** your-email@example.com  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
-🔗 **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/yourprofile)  
-💻 **GitHub:** [your-username](https://github.com/your-username)
-
+📩 **Email:** abhishaw020@gmail.com   
+🔗 **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/abhishaw020) 
